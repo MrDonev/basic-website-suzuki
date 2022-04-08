@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+#infoDiv,
+#historyDiv,
+.iconicModels {
+  position: relative;
+  left: 30rem;
+  width: 60rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 21px;
+  text-align: left;
+}
+
+#logo {
+  position: relative;
+  top: 6rem;
+  left: 45rem;
+}
+#img{
+    position: relative;
+    left: 42rem;
+    width: 600px;
+    height: 400px;
+}
+body {
+    background-color: rgb(222, 223, 223);
+}
+.navi{
+    position: sticky;
+    color : rgb(49, 49, 194);
+    top: 5rem;
+    left: 2rem;
+    width: 200px;
+    font-size: 22px;
+    font-family: 'Abril Fatface', cursive;
+}
